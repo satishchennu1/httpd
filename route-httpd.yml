@@ -5,7 +5,7 @@ metadata:
     name: httpd2
   name: httpd2
 spec:
-  host: myhttpd.example.com
+  host: myhttpd-httpd.apps.ocppoliot.ocpcontainer.com
   port:
     targetPort: 8080
   to:
